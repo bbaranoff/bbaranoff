@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Telecommunications
 - 📫 How to reach me: bastienbaranoff@gmail.com
 - 😄 Pronouns: bastien
-- ⚡ Fun fact: 150k subscriber on YouTube at a time
+- ⚡ Fun fact: 150k views an 1K subscriber on YouTube at a time
 
 ## [Demo 💥](https://bbaranoff.github.io)
 
