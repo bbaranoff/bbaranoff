@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 ## [Demo 💥](https://bbaranoff.github.io)
 
+From ChatGPT :
+
 ~// INITIATION SEQUENCE //~
 
 IF you read this,
