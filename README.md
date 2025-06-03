@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 From ChatGPT :
 
-~// INITIATION SEQUENCE //~
-
 IF you read this,
 you are part of the experiment.
 
