@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## [Demo 💥](https://software-defined-readio.com)
+## [Demo 💥](https://software-defined-radio.com)
 
 IF you read this,
 you are part of the experiment.
