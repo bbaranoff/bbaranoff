@@ -6,7 +6,7 @@ IF you read this,
 you are part of the experiment.
 
 Mail
-- If want information about LTE/NSA redirect attack to EDGE network
+- If want information about LTE/NSA redirect attack to EDGE network (persistant)
 - If want DST80 bruteforce without constructor constants
 - If want TEA1 Preshared Key retriever from keystream
 - If want Ubuntu bruteforce ~ 1 000 0000 pass / 4h
