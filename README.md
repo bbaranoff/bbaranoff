@@ -5,7 +5,8 @@
 IF you read this,
 you are part of the experiment.
 
-Mail
+Mail bastienbaranoff@gmail.com
+
 - If want information about LTE/NSA redirect attack to EDGE network (persistant)
 - If want DST80 bruteforce without constructor constants
 - If want TEA1 Preshared Key retriever from keystream
