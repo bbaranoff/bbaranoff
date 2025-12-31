@@ -1,17 +1,23 @@
-## Hi there 👋
+### 👋 Bastien Baranoff
 
-## [Demo 💥](https://software-defined-radio.com)
+Sécurité **télécom & radio**, **cryptanalyse GPU**, **traitement du signal**.  
+Approche terrain, preuves techniques, code reproductible.
 
-IF you read this,
-you are part of the experiment.
+---
 
-Mail bastienbaranoff@gmail.com
+![GitHub followers](https://img.shields.io/github/followers/bbaranoff?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/bbaranoff?label=Stars&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=bbaranoff&style=flat)
 
-- If want information about LTE/NSA redirect attack to EDGE network (persistant)
-- If want DST80 bruteforce without constructor constants
-- If want TEA1 Preshared Key retriever from keystream
-- If want Ubuntu bruteforce ~ 1 000 000 pass / 4h
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bbaranoff&show_icons=true&hide_title=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbaranoff&layout=compact&hide_border=true)
 
-No black market must confirm stakes and identity thanks
+---
 
-[Portfolio](https://bbaranoff.github.io/)
+**Focus**
+- GSM / LTE / 5G · SDR · protocoles radio
+- GPU computing (OpenCL / CUDA)
+- Analyse spectrale & signal
+- IA compacte, systèmes contrôlés
+
+🔗 https://github.com/bbaranoff
