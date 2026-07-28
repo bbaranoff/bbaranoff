@@ -11,7 +11,7 @@
 
 https://github.com/bbaranoff/osmo-nitb-for-calypso  
 https://github.com/bbaranoff/osmo-qemu-calypso  
-https://github.com/bbaranoff/tea1_cracker  
+https://github.com/bbaranoff/tea1-cracker  
 https://github.com/bbaranoff/dst80_reversing  
 https://github.com/bbaranoff/opentle and others for redirection attack scope  
 
