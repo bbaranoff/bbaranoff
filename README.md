@@ -1,7 +1,7 @@
 ### 👋 Bastien Baranoff
 
 ---
-## 📊 Indicateurs GitHub (réels)
+## 📊 Indicateurs GitHub
 
 ![Followers](https://img.shields.io/github/followers/bbaranoff?label=Followers&style=flat)
 ![Stars](https://img.shields.io/github/stars/bbaranoff?label=Total%20Stars&style=flat)
