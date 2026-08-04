@@ -11,5 +11,5 @@
  
 https://github.com/bbaranoff/tea1-cracker  
 https://github.com/bbaranoff/dst80_reversing  
-https://github.com/bbaranoff/openlte and others for redirection attack scope  
+https://github.com/bbaranoff/openlte and others for redirection attack or other scopes.  
 
