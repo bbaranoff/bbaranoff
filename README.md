@@ -27,7 +27,7 @@ Code terrain, preuves techniques, implémentations réelles.
 | [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
 | [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso |
 | [**qemu**](https://github.com/bbaranoff/qemu) | Banc de test Calypso Machine |
-| [**sip no clip option**](https://github.com/bbaranoff/callerid_spoofing) | Usurpation caller id |
+| [**caller id spoofing**](https://github.com/bbaranoff/callerid_spoofing) | sip no clip option Usurpation caller id |
 
 ### 📈 Traitement du signal
 
