@@ -38,4 +38,8 @@ Code terrain, preuves techniques, implémentations réelles.
 
 *Autres dépôts publics : outillage radio, PoC et travaux exploratoires.*
 
-![demo](https://github.com/bbaranoff/bbaranoff/raw/main/my.mp4)
+<video src="(https://github.com/bbaranoff/bbaranoff/blob/main/my.mp4)" controls width="600"></video>
+
+
+
+
