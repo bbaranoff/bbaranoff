@@ -17,6 +17,7 @@ Code terrain, preuves techniques, implémentations réelles.
 |---|---|
 | [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU |
 | [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) |
+| [**a5/3**](https://github.com/bbaranoff/a53) | Rétro-ingénierie du chiffrement a5/3 (téléphonie 2G) |
 
 ### 📡 Réseaux mobiles & baseband
 
