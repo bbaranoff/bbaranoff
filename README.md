@@ -1,5 +1,9 @@
 ## 👋 Bastien Baranoff
-
+  
+QEMU-CALYPSO ISO POC  
+  
+https://www.youtube.com/watch?v=30LJZB8Wxbk
+  
 ISO ready Qemu Calypso https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
 Support voice SMS MT MO in a a5/0
 a5/1 not fully implemented yet
