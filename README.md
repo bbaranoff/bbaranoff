@@ -24,17 +24,17 @@ Code terrain, preuves techniques, implémentations réelles.
 
 | Repo | Description |
 |---|---|
-| [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU |
-| [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) |
+| [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU ![PoC](https://youtu.be/39nY4-2f3ts?si=nMcADN_uU7eeTyBn)|
+| [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) ![PoC](https://youtu.be/aXoWpTccLAk?si=cRmWv8V77FdYlSA4) |
 | [**a5/3**](https://github.com/bbaranoff/a53) | Rétro-ingénierie du chiffrement a5/3 (téléphonie 2G) |
 
 ### 📡 Réseaux mobiles & baseband
 
 | Repo | Description |
 |---|---|
-| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés |
+| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés ![PoC]https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
 | [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
-| [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso |
+| [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso ![PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
 | [**qemu**](https://github.com/bbaranoff/qemu) | Banc de test Calypso Machine |
 | [**callerid_spoofing**](https://github.com/bbaranoff/callerid_spoofing) | sip no clip option Usurpation caller id |
 
