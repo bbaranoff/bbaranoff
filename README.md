@@ -1,6 +1,6 @@
 ## 👋 Bastien Baranoff
   
-QEMU-CALYPSO ISO POC  
+QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf envirment
   
 https://www.youtube.com/watch?v=30LJZB8Wxbk
   
