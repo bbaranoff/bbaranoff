@@ -1,5 +1,7 @@
 ## 👋 Bastien Baranoff
 
+ISO ready Qemu Calypso https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
+
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
 
