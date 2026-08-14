@@ -13,7 +13,7 @@ a5/1 not fully implemented yet
 dsp not fully reversed it is a shunt using grgsm
 
 ISO ready Qemu Calypso + osmo_egprs
-megda https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
+mega https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
 Support voice SMS MT MO in a a5/0
 a5/1 not fully implemented yet
 dsp not fully reversed it is a shunt using grgsm
