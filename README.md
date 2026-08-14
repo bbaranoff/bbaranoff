@@ -5,6 +5,9 @@ https://pl4y.store/docs
 QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf envirment
   
 https://www.youtube.com/watch?v=30LJZB8Wxbk
+
+ISO READY GITHUB RELEASE
+https://github.com/bbaranoff/osmo_egprs/releases/tag/main
   
 ISO ready Qemu Calypso https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
 Support voice SMS MT MO in a a5/0
