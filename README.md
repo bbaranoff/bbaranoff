@@ -32,7 +32,7 @@ Code terrain, preuves techniques, implémentations réelles.
 
 | Repo | Description |
 |---|---|
-| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés ![PoC]https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
+| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés ![PoC](https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
 | [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
 | [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso ![PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
 | [**qemu**](https://github.com/bbaranoff/qemu) | Banc de test Calypso Machine |
