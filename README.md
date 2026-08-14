@@ -6,10 +6,14 @@ QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf envi
   
 https://www.youtube.com/watch?v=30LJZB8Wxbk
 
-ISO READY GITHUB RELEASE
+ISO READY GITHUB RELEASE Qemu Calypso + osmo_egprs
 https://github.com/bbaranoff/osmo_egprs/releases/tag/main
-  
-ISO ready Qemu Calypso https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
+Support voice SMS MT MO in a a5/0
+a5/1 not fully implemented yet
+dsp not fully reversed it is a shunt using grgsm
+
+ISO ready Qemu Calypso + osmo_egprs
+megda https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
 Support voice SMS MT MO in a a5/0
 a5/1 not fully implemented yet
 dsp not fully reversed it is a shunt using grgsm
