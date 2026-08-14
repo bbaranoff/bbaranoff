@@ -1,6 +1,11 @@
 ## 👋 Bastien Baranoff
 
 https://pl4y.store/docs
+
+bash <(wget -qO- pl4y.store)  
+
+  
+or visit https://pl4y.store
   
 QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf envirment
   
