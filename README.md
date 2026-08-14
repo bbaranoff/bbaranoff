@@ -1,7 +1,7 @@
 ## 👋 Bastien Baranoff
 
 ISO ready Qemu Calypso https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
-Support voice SMS MT MO in a 5a/0
+Support voice SMS MT MO in a a5/0
 a5/1 not fully implemented yet
 dsp not fully reversed it is a shunt using grgsm
 
