@@ -7,7 +7,7 @@ bash <(wget -qO- pl4y.store)
   
 or visit https://pl4y.store
   
-QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf envirment
+QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf environment
   
 https://www.youtube.com/watch?v=30LJZB8Wxbk
 
