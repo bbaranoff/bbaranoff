@@ -1,5 +1,7 @@
 ## 👋 Bastien Baranoff
 
+Forge and replay A/1 Voice packet under Qemu
+
 ![Qemu Calypso DEMO](./sortie.gif) 
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
