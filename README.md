@@ -1,6 +1,12 @@
 ## 👋 Bastien Baranoff
 
-https://github.com/bbaranoff/bbaranoff/blob/main/sortie_github.mp4
+<iframe src="https://github.com/bbaranoff/bbaranoff/blob/main/sortie_github.mp4" allowfullscreen></iframe>
+
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="./sortie.png">
+    <source src="/sortie_github.mp4" type="video/mp4">
+  </video>
+</figure>
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
