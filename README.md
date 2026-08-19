@@ -1,10 +1,6 @@
 ## 👋 Bastien Baranoff
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./sortie.png">
-    <source src="./sortie_github.mp4" type="video/mp4">
-  </video>
-</figure>
+[Qemu Calypso DEMO](./sortie.gif) 
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
