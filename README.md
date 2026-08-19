@@ -1,10 +1,8 @@
 ## 👋 Bastien Baranoff
 
-<iframe src="https://github.com/bbaranoff/bbaranoff/blob/main/sortie_github.mp4" allowfullscreen></iframe>
-
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="./sortie.png">
-    <source src="/sortie_github.mp4" type="video/mp4">
+    <source src="./sortie_github.mp4" type="video/mp4">
   </video>
 </figure>
 
