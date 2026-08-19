@@ -1,6 +1,6 @@
 ## 👋 Bastien Baranoff
 
-Forge and replay A/1 Voice packet under Qemu
+Forge and replay A5/1 Voice packet under Qemu
 
 ![Qemu Calypso DEMO](./sortie.gif) 
 
