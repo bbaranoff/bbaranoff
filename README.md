@@ -1,6 +1,7 @@
 ## 👋 Bastien Baranoff
 
-<video src="./sortie.mp4" controls width="640"></video>
+[<video src="./sortie.mp4" controls width="640"></video>
+](https://github.com/bbaranoff/bbaranoff/raw/refs/heads/main/sortie_github.mp4)
 
 https://pl4y.store/docs
 
