@@ -1,5 +1,7 @@
 ## 👋 Bastien Baranoff
 
+<video src="./sortie.mp4" controls width="640"></video>
+
 https://pl4y.store/docs
 
 bash <(wget -qO- pl4y.store)  
