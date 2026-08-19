@@ -1,29 +1,6 @@
 ## 👋 Bastien Baranoff
 
-[<video src="./sortie.mp4" controls width="640"></video>](https://github.com/bbaranoff/bbaranoff/raw/refs/heads/main/sortie_github.mp4)
-
-https://pl4y.store/docs
-
-bash <(wget -qO- pl4y.store)  
-
-  
-or visit https://pl4y.store
-  
-QEMU-CALYPSO ISO POC  Voice with qemu in an osmocom network in the box norf environment
-  
-https://www.youtube.com/watch?v=30LJZB8Wxbk
-
-ISO READY GITHUB RELEASE Qemu Calypso + osmo_egprs
-https://github.com/bbaranoff/osmo_egprs/releases/tag/main
-Support voice SMS MT MO in a a5/0
-a5/1 not fully implemented yet
-dsp not fully reversed it is a shunt using grgsm
-
-ISO ready Qemu Calypso + osmo_egprs
-mega https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU
-Support voice SMS MT MO in a a5/0
-a5/1 not fully implemented yet
-dsp not fully reversed it is a shunt using grgsm
+https://github.com/bbaranoff/bbaranoff/raw/refs/heads/main/sortie_github.mp4
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
@@ -35,26 +12,35 @@ Code terrain, preuves techniques, implémentations réelles.
 ![Profile Views](https://komarev.com/ghpvc/?username=bbaranoff&style=flat-square)
 
 ---
+
+### 🎯 Projet phare — QEMU-Calypso
+
+Émulation du baseband Calypso sous QEMU dans un réseau Osmocom « in the box ». Voix, SMS MT/MO en A5/0.
+A5/1 pas encore complètement implémenté · DSP non entièrement reversé (shunt via grgsm).
+
+- 📀 **ISO — GitHub release :** [osmo_egprs `main`](https://github.com/bbaranoff/osmo_egprs/releases/tag/main)
+- 📀 **ISO — miroir MEGA :** [télécharger](https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU)
+- ▶️ **PoC vidéo :** [Voice with QEMU in an Osmocom network](https://www.youtube.com/watch?v=30LJZB8Wxbk)
+
+---
+
 ### 📡 Réseaux mobiles & baseband
 
 | Repo | Description |
 |---|---|
-| [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
+| [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso · [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
 | [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
-| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés [PoC](https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
+| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés · [PoC](https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
 | [**qemu**](https://github.com/bbaranoff/qemu) | Banc de test Calypso Machine |
-| [**callerid_spoofing**](https://github.com/bbaranoff/callerid_spoofing) | sip no clip option Usurpation caller id |
-
+| [**callerid_spoofing**](https://github.com/bbaranoff/callerid_spoofing) | SIP, option no-CLIP · usurpation de caller ID |
 
 ### 🔓 Cryptanalyse
 
 | Repo | Description |
 |---|---|
-| [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU [PoC](https://youtu.be/39nY4-2f3ts?si=nMcADN_uU7eeTyBn)|
-| [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) [PoC](https://youtu.be/aXoWpTccLAk?si=cRmWv8V77FdYlSA4) |
-| [**a5/3**](https://github.com/bbaranoff/a53) | Rétro-ingénierie du chiffrement a5/3 (téléphonie 2G) |
-
-
+| [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU · [PoC](https://youtu.be/39nY4-2f3ts?si=nMcADN_uU7eeTyBn) |
+| [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) · [PoC](https://youtu.be/aXoWpTccLAk?si=cRmWv8V77FdYlSA4) |
+| [**a5/3**](https://github.com/bbaranoff/a53) | Rétro-ingénierie du chiffrement A5/3 (téléphonie 2G) |
 
 ### 📈 Traitement du signal
 
@@ -64,9 +50,14 @@ Code terrain, preuves techniques, implémentations réelles.
 
 ---
 
+### 🚀 pl4y.store
+
+```bash
+bash <(wget -qO- pl4y.store)
+```
+
+Docs : [pl4y.store/docs](https://pl4y.store/docs) · ou visite directement [pl4y.store](https://pl4y.store)
+
+---
+
 *Autres dépôts publics : outillage radio, PoC et travaux exploratoires.*
-
-
-
-
-
