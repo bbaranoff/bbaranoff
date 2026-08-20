@@ -2,7 +2,7 @@
 
 Forge and replay A5/1 Voice packet under Qemu
 
-[](./sortie.gif)
+<img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/sortie.gif" width="640" />
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
