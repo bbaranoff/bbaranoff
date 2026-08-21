@@ -6,7 +6,7 @@ Forge and replay A5/1 Voice packet under Qemu
 
 Forging A5/1 Voice and Nohl's 2009 full black hat demonstration automated
 
-[PoC](https://www.youtube.com/watch?v=s13TDfBw5v4)
+[PoC](https://youtu.be/gwXdmwdqZqs?si=Ql0DFqMQBmYUrF9g)
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
