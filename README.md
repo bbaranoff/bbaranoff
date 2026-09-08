@@ -1,13 +1,13 @@
 ## 👋 Bastien Baranoff
 
-[![Titre de la vidéo](https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
+[![demo](https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
 Forge and replay A5/1 Voice packet under Qemu
 
 <img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/sortie.gif" width="640" />
 
 Forging A5/1 Voice and Nohl's 2009 full black hat demonstration automated
 
-[PoC](https://youtu.be/gwXdmwdqZqs?si=Ql0DFqMQBmYUrF9g) [DOC](https://bastienbaranoff-calypso-qmd.share.connect.posit.cloud/)
+https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
