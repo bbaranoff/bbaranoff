@@ -1,6 +1,6 @@
-## 👋 Bastien Baranoff
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PVdm7ajiobI?si=m56A8T-I9UU9Fs8t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+## 👋 Bastien Baranoff<a href="https://www.youtube.com/watch?v=PVdm7ajiobI">
+  <img src="https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg" width="560" alt="Titre de la vidéo">
+</a>
 
 Forge and replay A5/1 Voice packet under Qemu
 
