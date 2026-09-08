@@ -1,7 +1,6 @@
-## 👋 Bastien Baranoff<a href="https://www.youtube.com/watch?v=PVdm7ajiobI">
-  <img src="https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg" width="560" alt="Titre de la vidéo">
-</a>
+## 👋 Bastien Baranoff
 
+[![Titre de la vidéo](https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
 Forge and replay A5/1 Voice packet under Qemu
 
 <img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/sortie.gif" width="640" />
