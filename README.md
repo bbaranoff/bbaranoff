@@ -1,6 +1,8 @@
 ## 👋 Bastien Baranoff
 
-> ### 📡 [**Console SIGINT interactive — générateur de keystream A5/1 en direct →**](https://bbaranoff.github.io/bbaranoff/)
+[![A5/1 keystream generator — SIGINT console](https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/a51.svg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
+
+<sub>↑ générateur de keystream A5/1 animé — vrai run (3 LFSR 19/22/23 bits, clocking par majorité). Clique pour la démo vidéo.</sub>
 
 [![demo](https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
 Forge and replay A5/1 Voice packet under Qemu
