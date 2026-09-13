@@ -24,14 +24,21 @@ Code terrain, preuves techniques, implémentations réelles.
 
 ---
 
-### 🎯 Projet phare — QEMU-Calypso
+### 🎯 Projets phares
 
-Émulation du baseband Calypso sous QEMU dans un réseau Osmocom « in the box ». Voix, SMS MT/MO en A5/0.
-A5/1 pas encore complètement implémenté · DSP non entièrement reversé (shunt via grgsm).
+#### 📶 [osmo-operator](https://github.com/bbaranoff/osmo-operator)
 
-- 📀 **ISO — GitHub release :** [osmo_egprs `main`](https://github.com/bbaranoff/osmo_egprs/releases/tag/main)
-- 📀 **ISO — miroir MEGA :** [télécharger](https://mega.nz/file/TSRWkazb#jen3dGoMkrV_83kX0TgeCMTT9bjkxFCDp9ctUXQQkDU)
+Plateforme de simulation **GSM multi-opérateurs** — stack Osmocom complète en conteneurs Docker, avec interconnexion **SS7/IP**. Un vrai réseau télécom de test, sans matériel.
+
+- 📀 **ISO bootable :** [GitHub releases](https://github.com/bbaranoff/osmo-operator/releases) *(image à venir)*
+- 🧩 **Repo :** [osmo-operator](https://github.com/bbaranoff/osmo-operator)
+
+#### 📟 [qosmo-grgsm](https://github.com/bbaranoff/qosmo-grgsm)
+
+Émulation du **baseband GSM TI Calypso** sous QEMU : firmware ARM non modifié (osmocom-bb L1) **et** DSP mask-ROM authentique tournant ensemble via la mailbox RAM réelle du SoC. Fsync, authentification, chiffrement, SMS et voix — pontés vers grgsm.
+
 - ▶️ **PoC vidéo :** [Voice with QEMU in an Osmocom network](https://www.youtube.com/watch?v=30LJZB8Wxbk)
+- 🧩 **Repo :** [qosmo-grgsm](https://github.com/bbaranoff/qosmo-grgsm)
 
 ---
 
@@ -39,6 +46,8 @@ A5/1 pas encore complètement implémenté · DSP non entièrement reversé (shu
 
 | Repo | Description |
 |---|---|
+| [**osmo-operator**](https://github.com/bbaranoff/osmo-operator) | ⭐ Simulation GSM multi-opérateurs · Osmocom + Docker · SS7/IP |
+| [**qosmo-grgsm**](https://github.com/bbaranoff/qosmo-grgsm) | ⭐ Baseband Calypso émulé QEMU · L1 + DSP réel · [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
 | [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso · [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
 | [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
 | [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés · [PoC](https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
