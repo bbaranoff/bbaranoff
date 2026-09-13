@@ -4,14 +4,15 @@
 
 <sub>↑ générateur de keystream A5/1 animé — vrai run (3 LFSR 19/22/23 bits, clocking par majorité). Clique pour la démo vidéo.</sub>
 
-[![demo](https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
-Forge and replay A5/1 Voice packet under Qemu
+### 🎬 Démos
 
-<img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/sortie.gif" width="640" />
+<a href="https://www.youtube.com/watch?v=aJRNoW1p7BI"><img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/norf-box.gif" width="760" alt="noRF box — ISO osmo-operator" /></a>
 
-Forging A5/1 Voice and Nohl's 2009 full black hat demonstration automated
+<sub>📀 <b>noRF box — l'ISO <a href="https://github.com/bbaranoff/osmo-operator">osmo-operator</a>.</b> Réseau GSM complet « in the box » : appel voix + data, sans aucune RF. ▶️ Clique pour la vidéo.</sub>
 
-https://img.youtube.com/vi/PVdm7ajiobI/maxresdefault.jpg
+<a href="https://www.youtube.com/watch?v=gwXdmwdqZqs"><img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/a51-cracking.gif" width="760" alt="GSM Cracking A5/1 — voix & SMS 2G" /></a>
+
+<sub>🔓 <b>Cracking A5/1 — voix &amp; SMS sur 2G</b>, no-RF instance (grgsm) · démonstration black-hat de Nohl automatisée. ▶️ Clique pour la vidéo.</sub>
 
 **Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
 Code terrain, preuves techniques, implémentations réelles.
