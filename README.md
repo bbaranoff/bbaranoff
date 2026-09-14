@@ -31,7 +31,7 @@ Code terrain, preuves techniques, implémentations réelles.
 
 Plateforme de simulation **GSM multi-opérateurs** — stack Osmocom complète en conteneurs Docker, avec interconnexion **SS7/IP**. Un vrai réseau télécom de test, sans matériel.
 
-- 📀 **ISO bootable :** [GitHub releases](https://github.com/bbaranoff/osmo-operator/releases) *(image à venir)*
+- 📀 **ISO bootable :** [GitHub releases](https://github.com/bbaranoff/osmo-operator/releases)
 - 🧩 **Repo :** [osmo-operator](https://github.com/bbaranoff/osmo-operator)
 
 #### 📟 [qosmo-grgsm](https://github.com/bbaranoff/qosmo-grgsm)
