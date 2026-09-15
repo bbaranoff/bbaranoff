@@ -1,3 +1,9 @@
+Release ISO Bootable
+
+https://github.com/bbaranoff/osmo-operator/releases/tag/v0.1-3
+osmo-operator — banc GSM/LTE pédagogique, multi-PLMN, sans matériel
+
+
 ## 👋 Bastien Baranoff
 
 [![A5/1 keystream generator — SIGINT console](https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/a51.svg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
