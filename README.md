@@ -3,50 +3,6 @@ Release ISO Bootable
 https://github.com/bbaranoff/osmo-operator/releases/tag/v0.1-60
 osmo-operator — banc GSM/LTE pédagogique, multi-PLMN, sans matériel
 
-
-## 👋 Bastien Baranoff
-
-[![A5/1 keystream generator — SIGINT console](https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/a51.svg)](https://www.youtube.com/watch?v=PVdm7ajiobI)
-
-<sub>↑ générateur de keystream A5/1 animé — vrai run (3 LFSR 19/22/23 bits, clocking par majorité). Clique pour la démo vidéo.</sub>
-
-### 🎬 Démos
-
-<a href="https://www.youtube.com/watch?v=aJRNoW1p7BI"><img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/norf-box.gif" width="760" alt="noRF box — ISO osmo-operator" /></a>
-
-<sub>📀 <b>noRF box — l'ISO <a href="https://github.com/bbaranoff/osmo-operator">osmo-operator</a>.</b> Réseau GSM complet « in the box » : appel voix + data, sans aucune RF. ▶️ Clique pour la vidéo.</sub>
-
-<a href="https://www.youtube.com/watch?v=gwXdmwdqZqs"><img src="https://raw.githubusercontent.com/bbaranoff/bbaranoff/main/a51-cracking.gif" width="760" alt="GSM Cracking A5/1 — voix & SMS 2G" /></a>
-
-<sub>🔓 <b>Cracking A5/1 — voix &amp; SMS sur 2G</b>, no-RF instance (grgsm) · démonstration black-hat de Nohl automatisée. ▶️ Clique pour la vidéo.</sub>
-
-**Sécurité télécom & radio · cryptanalyse GPU · traitement du signal.**
-Code terrain, preuves techniques, implémentations réelles.
-
-📍 Perpignan · [pl4y.store](https://pl4y.store) · [science-integration.org](https://science-integration.org) · [@bastienbaranoff](https://x.com/bastienbaranoff)
-
-![Followers](https://img.shields.io/github/followers/bbaranoff?label=Followers&style=flat-square)
-![Stars](https://img.shields.io/github/stars/bbaranoff?label=Total%20Stars&style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=bbaranoff&style=flat-square)
-
----
-
-### 🎯 Projets phares
-
-#### 📶 [osmo-operator](https://github.com/bbaranoff/osmo-operator)
-
-Plateforme de simulation **GSM multi-opérateurs** — stack Osmocom complète en conteneurs Docker, avec interconnexion **SS7/IP**. Un vrai réseau télécom de test, sans matériel.
-
-- 📀 **ISO bootable :** [GitHub releases](https://github.com/bbaranoff/osmo-operator/releases)
-- 🧩 **Repo :** [osmo-operator](https://github.com/bbaranoff/osmo-operator)
-
-#### 📟 [qosmo-grgsm](https://github.com/bbaranoff/qosmo-grgsm)
-
-Émulation du **baseband GSM TI Calypso** sous QEMU : firmware ARM non modifié (osmocom-bb L1) **et** DSP mask-ROM authentique tournant ensemble via la mailbox RAM réelle du SoC. Fsync, authentification, chiffrement, SMS et voix — pontés vers grgsm.
-
-- ▶️ **PoC vidéo :** [Voice with QEMU in an Osmocom network](https://www.youtube.com/watch?v=30LJZB8Wxbk)
-- 🧩 **Repo :** [qosmo-grgsm](https://github.com/bbaranoff/qosmo-grgsm)
-
 ---
 
 ### 📡 Réseaux mobiles & baseband
