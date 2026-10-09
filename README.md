@@ -54,26 +54,9 @@ Plateforme de simulation **GSM multi-opérateurs** — stack Osmocom complète e
 | Repo | Description |
 |---|---|
 | [**osmo-operator**](https://github.com/bbaranoff/osmo-operator) | ⭐ Simulation GSM multi-opérateurs · Osmocom + Docker · SS7/IP |
-| [**qosmo-grgsm**](https://github.com/bbaranoff/qosmo-grgsm) | ⭐ Baseband Calypso émulé QEMU · L1 + DSP réel · [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
-| [**qemu-calypso**](https://github.com/bbaranoff/qemu-calypso) | Émulation QEMU du baseband Calypso · [PoC](https://youtu.be/30LJZB8Wxbk?si=O3CCL5zlHTd3lZrQ) |
-| [**osmo_egprs**](https://github.com/bbaranoff/osmo_egprs) | Implémentation EGPRS sur base Osmocom |
-| [**openlte**](https://github.com/bbaranoff/openlte) | Stack LTE — attaques par redirection et scénarios associés · [PoC](https://youtu.be/VJNy2I-ZTfs?si=G8Y4kRbPDJtwTbqB) |
-| [**qemu**](https://github.com/bbaranoff/qemu) | Banc de test Calypso Machine |
-| [**callerid_spoofing**](https://github.com/bbaranoff/callerid_spoofing) | SIP, option no-CLIP · usurpation de caller ID |
-
-### 🔓 Cryptanalyse
-
-| Repo | Description |
-|---|---|
-| [**tea1-cracker**](https://github.com/bbaranoff/tea1-cracker) | Attaque sur TEA1 (TETRA) — implémentation accélérée GPU · [PoC](https://youtu.be/39nY4-2f3ts?si=nMcADN_uU7eeTyBn) |
-| [**dst80_reversing**](https://github.com/bbaranoff/dst80_reversing) | Rétro-ingénierie du chiffrement DST80 (transpondeurs RFID) · [PoC](https://youtu.be/aXoWpTccLAk?si=cRmWv8V77FdYlSA4) |
-| [**a5/3**](https://github.com/bbaranoff/a53) | Rétro-ingénierie du chiffrement A5/3 (téléphonie 2G) |
-
-### 📈 Traitement du signal
-
-| Repo | Description |
-|---|---|
-| [**ligo**](https://github.com/bbaranoff/ligo) | Analyse de données interférométriques LIGO |
+| [**qosmo**](https://github.com/bbaranoff/qosmo) | ⭐ Baseband Calypso émulé QEMU · L1 + DSP réel · 
+| [**c54x_exe**](https://github.com/bbaranoff/c54x_exe) | ⭐ Émulation exe de l'hote et de la ROM Texas Instruments du DSP 2G c54x Calypso · 
+| [**grgsm_exe**](https://github.com/bbaranoff/grgsm_exe) | ⭐ Shunt DSP par grgsm |
 
 ---
 
