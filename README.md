@@ -4,8 +4,7 @@ https://github.com/bbaranoff/osmo-operator/releases/tag/v0.1-60
   
 osmo-operator — banc GSM/LTE pédagogique, multi-PLMN, sans matériel
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-UY50ZZ_mLc?si=C7d4aF3_OZgudfOd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![Voir la vidéo](https://img.youtube.com/vi/-UY50ZZ_mLc/maxresdefault.jpg)](https://www.youtube.com/watch?v=-UY50ZZ_mLc)
 ---
 
 ### 📡 Réseaux mobiles & baseband
