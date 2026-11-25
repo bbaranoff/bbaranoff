@@ -13,7 +13,7 @@ En 4G : Open5GS, srsRAN, le repli 4G → 2G pour les appels (CSFB) et un télép
 
 ---
 
-### 💿 Télécharger l'ISO desktop (v0.1-9)
+### 💿 Télécharger l'ISO desktop (v0.2)
 
 Live GNOME avec tout le banc prêt à l'emploi (2G, DSP, 4G, CSFB, postmarketOS), plus Wireshark, Linphone et les spectres I/Q. Rien à compiler.
 
