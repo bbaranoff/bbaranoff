@@ -17,11 +17,11 @@ En 4G : Open5GS, srsRAN, le repli 4G → 2G pour les appels (CSFB) et un télép
 
 Live GNOME avec tout le banc prêt à l'emploi (2G, DSP, 4G, CSFB, postmarketOS), plus Wireshark, Linphone et les spectres I/Q. Rien à compiler.
 
-- [Part 00](https://github.com/bbaranoff/osmo-operator/releases/download/v0.1-9/osmo-operator-desktop.iso.part-00)
-- [Part 01](https://github.com/bbaranoff/osmo-operator/releases/download/v0.1-9/osmo-operator-desktop.iso.part-01)
-- [Part 02](https://github.com/bbaranoff/osmo-operator/releases/download/v0.1-9/osmo-operator-desktop.iso.part-02)
-- [Part 03](https://github.com/bbaranoff/osmo-operator/releases/download/v0.1-9/osmo-operator-desktop.iso.part-03)
-- [SHA256SUMS](https://github.com/bbaranoff/osmo-operator/releases/download/v0.1-9/SHA256SUMS)
+- [Part 00](https://github.com/bbaranoff/osmo-operator/releases/download/v0.2/osmo-operator-desktop.iso.part-00)
+- [Part 01](https://github.com/bbaranoff/osmo-operator/releases/download/v0.2/osmo-operator-desktop.iso.part-01)
+- [Part 02](https://github.com/bbaranoff/osmo-operator/releases/download/v0.2/osmo-operator-desktop.iso.part-02)
+- [Part 03](https://github.com/bbaranoff/osmo-operator/releases/download/v0.2/osmo-operator-desktop.iso.part-03)
+- [SHA256SUMS](https://github.com/bbaranoff/osmo-operator/releases/download/v0.2/SHA256SUMS)
 
 > [!IMPORTANT]
 > Télécharge **les quatre** parties : GitHub limite chaque fichier à 2 Gio.
