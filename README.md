@@ -1,4 +1,6 @@
-# osmo-operator-desktop.iso — v0.1-9
+# osmo-operator-desktop.iso — v0.2
+
+![osmo-operator: the GSM LAB desktop, the mast beacon over the city](https://raw.githubusercontent.com/bbaranoff/osmo-operator/main/configs/osmo-balise-jour.png)
 
 [![Build ISO](https://github.com/bbaranoff/osmo-operator/actions/workflows/build-iso.yml/badge.svg?branch=main&event=workflow_dispatch)](https://github.com/bbaranoff/osmo-operator/actions/workflows/build-iso.yml)
 
