@@ -55,10 +55,7 @@ La release contient aussi `osmo-operator.iso` (sans le bureau), `osmo-operator-l
 ---
 
 ### 🚀 pl4y.store
-
-```bash
-bash <(wget -qO- pl4y.store)
-```
+https://pl4y.store
 
 Docs : [pl4y.store/docs](https://pl4y.store/docs) · ou directement [pl4y.store](https://pl4y.store)
 
